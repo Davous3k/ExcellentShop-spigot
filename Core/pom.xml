@@ -39,7 +39,7 @@
 
         <repository>
             <id>intellectualsites snapshots</id>
-            <url>https://nexus.alex9849.net/repository/maven-releases/net/alex9849/</url>
+            <url>https://nexus.alex9849.net/repository/maven-releases/net/alex9849/advancedregionmarket</url>
         </repository>
 
         <repository>
