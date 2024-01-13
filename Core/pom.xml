@@ -39,7 +39,7 @@
 
         <repository>
             <id>intellectualsites snapshots</id>
-            <url>https://mvn.intellectualsites.com/content/repositories/snapshots/</url>
+            <url>http://github.com/alex9849/advanced-region-market</url>
         </repository>
 
         <repository>
